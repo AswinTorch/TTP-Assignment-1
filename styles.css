@@ -17,6 +17,7 @@
 }
 
 #section-2 {
-  height: 400px;
+  padding-top: 100px;
+  padding-bottom: 70px;
   background-color: white;
 }
