@@ -1,0 +1,22 @@
+#section-1 {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: lightblue url(https://wallpapercave.com/wp/wp1967135.jpg) no-repeat fixed bottom; 
+}
+
+#title {
+  -webkit-text-stroke: 0.2px black;
+  color: white;
+}
+
+#subtitle {
+  -webkit-text-stroke: 0.2px black;
+  color: white;
+}
+
+#section-2 {
+  height: 400px;
+  background-color: white;
+}
